@@ -1,0 +1,35 @@
+#---------------------------------------------------------
+# Peliculas almacenadas de la vídeotienda
+#---------------------------------------------------------
+
+total.peliculas = 10
+
+pelicula1.nombre = El senor de Los anillos I
+pelicula1.copias = 3
+
+pelicula2.nombre = El misterio de la libélula
+pelicula2.copias = 2
+
+pelicula3.nombre = Buscando a Nemo
+pelicula3.copias = 2
+
+pelicula4.nombre = Matrix
+pelicula4.copias = 3
+
+pelicula5.nombre=Troya
+pelicula5.copias = 1
+
+pelicula6.nombre = Cruzada
+pelicula6.copias = 2
+
+pelicula7.nombre = E.T
+pelicula7.copias = 5
+
+pelicula8.nombre= El Gran Pez
+pelicula8.copias = 1
+
+pelicula9.nombre=StarWars
+pelicula9.copias = 6
+
+pelicula10.nombre=El padrino
+pelicula10.copias = 4
